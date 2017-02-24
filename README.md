@@ -1,2 +1,2 @@
 # hello-world
-Bharat
+Hi! This is Bharat. This is my first time using GitHub. 
